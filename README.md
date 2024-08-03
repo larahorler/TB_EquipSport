@@ -1,5 +1,5 @@
 # TB_EquipSport
-Script pour initialisation des descriptions spéci-fiques sur les différents listings
+Script pour initialisation des descriptions spécifiques sur les différents listings
 
 
 Instructions
